@@ -1,8 +1,8 @@
 # Matching-Features
 
-This project uses Harris, SURF, and ORB algorithims to detect features from two different images of Penn State Campus.
+This project uses Harris, SURF, and ORB algorithms to detect features from two different images of Penn State Campus.
 
-For Haris the algorithm only picked up on 3 matched points. 
+For HARRIS the algorithm only picked up on 3 matched points. 
 ![image](https://github.com/user-attachments/assets/54ca3d89-4cac-495c-a02f-617cbec6b9f6)
 
 SURF picked up on the most match points but had errors in matching them. 
